@@ -1,32 +1,32 @@
 [
   {
-    id: 1,
-    name: 'Promo Beli 1 Dapat 2',
-    callToAction: 'Ambil',
-    backgroundColor: '/src/assets/images/widget/widget-bg-1.png'
+    "id": 1,
+    "name": "Promo Beli 1 Dapat 2",
+    "callToAction": "Ambil",
+    "backgroundColor": "/src/assets/images/widget/widget-bg-1.png"
   },
   {
-    id: 2,
-    name: 'Promo Diskon Harga 25%',
-    callToAction: 'Ambil',
-    backgroundColor: '/src/assets/images/widget/widget-bg-2.png'
+    "id": 2,
+    "name": "Promo Diskon Harga 25%",
+    "callToAction": "Ambil",
+    "backgroundColor": "/src/assets/images/widget/widget-bg-2.png"
   },
   {
-    id: 3,
-    name: 'Promo Diskon Ongkir 50%',
-    callToAction: 'Ambil',
-    backgroundColor: '/src/assets/images/widget/widget-bg-3.png'
+    "id": 3,
+    "name": "Promo Diskon Ongkir 50%",
+    "callToAction": "Ambil",
+    "backgroundColor": "/src/assets/images/widget/widget-bg-3.png"
   },
   {
-    id: 4,
-    name: 'Promo Akun Baru Gratis Ongkir',
-    callToAction: 'Ambil',
-    backgroundColor: '/src/assets/images/widget/widget-bg-4.png'
+    "id": 4,
+    "name": "Promo Akun Baru Gratis Ongkir",
+    "callToAction": "Ambil",
+    "backgroundColor": "/src/assets/images/widget/widget-bg-4.png"
   },
   {
-    id: 5,
-    name: 'Promo Diskon 50%',
-    callToAction: 'Ambil',
-    backgroundColor: '/src/assets/images/widget/widget-bg-5.png'
+    "id": 5,
+    "name": "Promo Diskon 50%",
+    "callToAction": "Ambil",
+    "backgroundColor": "/src/assets/images/widget/widget-bg-5.png"
   }
 ]
