@@ -8,8 +8,8 @@
         "details": [
           "1. Login ke ib.bri.co.id",
           "2. Pilih Menu PEMBAYARAN > BRIVA",
-          "3. Pilih sumber pembayaran. Masukkan Nomer VIRTUAL AKUN yang telah disalin ke 'KODE BAYAR' dan tekan 'KIRIM'",
-          "4. Masukkan jumlah Nominal yang harus dibayarkan, Kemudian klik 'KIRIM'",
+          "3. Pilih sumber pembayaran. Masukkan Nomer '88810081324087598' ke 'KODE BAYAR' dan tekan 'KIRIM'",
+          "4. Masukkan jumlah Nominal tagihan yang harus dibayarkan, Kemudian klik 'KIRIM'",
           "5. Konfirmasi transaksi dengan memasukkan password internet banking Anda dan klik 'Permintaan mToken' untuk mendapatkan mToken yang akan dikirim ke telepon Anda kemudian masukkan ke dalam kolom mToken dan klik 'KIRIM'"
         ]
       },
@@ -17,33 +17,37 @@
         "id": "acc-2",
         "title": "Internet Banking BRI (Versi MOBILE)",
         "details": [
-          "1. Login ke ib.bri.co.id",
+          "1. Buka aplikasi BRI Mobile dan login ke Internet Banking BRI",
           "2. Pilih Menu PEMBAYARAN > BRIVA",
-          "3. Pilih sumber pembayaran. Masukkan Nomer VIRTUAL AKUN yang telah disalin ke 'KODE BAYAR' dan tekan 'KIRIM'",
-          "4. Masukkan jumlah Nominal yang harus dibayarkan, Kemudian klik 'KIRIM'",
-          "5. Konfirmasi transaksi dengan memasukkan password internet banking Anda dan klik 'Permintaan mToken' untuk mendapatkan mToken yang akan dikirim ke telepon Anda kemudian masukkan ke dalam kolom mToken dan klik 'KIRIM'"
+          "3. Tekan kolon 'Kode Bayar' kemudian masukkan Nomer '88810081324087598' sebagai 'Nomer BRIVA' dan klik 'OK'",
+          "4. Masukkan jumlah Nominal tagihan yang harus dibayarkan, Kemudian klik 'KIRIM'",
+          "5. Konfirmasi transaksi dengan memasukkan password internet banking Anda dan klik 'KIRIM'"
         ]
       },
       {
         "id": "acc-3",
         "title": "BRIMO",
         "details": [
-          "1. Login ke ib.bri.co.id",
-          "2. Pilih Menu PEMBAYARAN > BRIVA",
-          "3. Pilih sumber pembayaran. Masukkan Nomer VIRTUAL AKUN yang telah disalin ke 'KODE BAYAR' dan tekan 'KIRIM'",
-          "4. Masukkan jumlah Nominal yang harus dibayarkan, Kemudian klik 'KIRIM'",
-          "5. Konfirmasi transaksi dengan memasukkan password internet banking Anda dan klik 'Permintaan mToken' untuk mendapatkan mToken yang akan dikirim ke telepon Anda kemudian masukkan ke dalam kolom mToken dan klik 'KIRIM'"
+          "1. Login ke BRIMO terlebih dahulu",
+          "2. Pilih Menu 'DOMPET DIGITAL'",
+          "3. Jika nomer 'VIRTUAL AKUN' belum ada di 'Dafta Tersimpan', maka kamu bisa pilih 'Tambah Daftar Baru'",
+          "4. Pilih Jenis Walle, Pilih DANA, selanjutnya masukkan nomer telpon '081324087598'",
+          "5. Aplikasi BRIMO akan mengeluarkan informasi nama pengguna DANA dan nomer ponsel. Pastikan data tersebut sudah benar",
+          "6. Selanjutnya masukkan jumlah Nominal tagihan yang harus dibayarkan, Kemudian klik 'KONFIRMASI'",
+          "7. Kemudian aplikasi BRIMO akan menampilkan halaman konfirmasi data dan detail transaksi. Pastikan semua data yang ditampilkan sudah benar, Lalu pilih 'KONFIRMASI'",
+          "8. Masukkan PIN BRIMO. Pastikan PIN BRIMO yang dimasukkan telah sesuai",
+          "9. Transaksi selsai"
         ]
       },
       {
         "id": "acc-4",
         "title": "ATM BRI",
         "details": [
-          "1. Login ke ib.bri.co.id",
-          "2. Pilih Menu PEMBAYARAN > BRIVA",
-          "3. Pilih sumber pembayaran. Masukkan Nomer VIRTUAL AKUN yang telah disalin ke 'KODE BAYAR' dan tekan 'KIRIM'",
-          "4. Masukkan jumlah Nominal yang harus dibayarkan, Kemudian klik 'KIRIM'",
-          "5. Konfirmasi transaksi dengan memasukkan password internet banking Anda dan klik 'Permintaan mToken' untuk mendapatkan mToken yang akan dikirim ke telepon Anda kemudian masukkan ke dalam kolom mToken dan klik 'KIRIM'"
+          "1. Masukkan kartu, pilih bahasa, kemudian masukkan PIN Anda",
+          "2. Pilih Menu 'PEMBAYARAN LAIN > PEMBAYARAN > LAINNYA > BRIVA'",
+          "3. Masukkan nomer '88810081324087598' sebagai Nomer BRIVA kemudian tekan 'BENAR'",
+          "4. Masukkan jumlah Nominal yang harus dibayarkan",
+          "5. Apabila nomer 'Virtual Akun' benar, informasi transaksi akan ditampilkan. Jumlah pembayaran harus sama dengan jumlah tagihan yang harus dibayarkan. Konfirmasi transaksi dengan menekan 'YA'"
         ]
       }
     ]
@@ -53,46 +57,36 @@
     "content": [
       {
         "id": "acc-1",
-        "title": "Internet Banking BCA (Versi WEB)",
+        "title": "ATM BCA",
         "details": [
-          "1. Login ke ib.bri.co.id",
-          "2. Pilih Menu PEMBAYARAN > BRIVA",
-          "3. Pilih sumber pembayaran. Masukkan Nomer VIRTUAL AKUN yang telah disalin ke 'KODE BAYAR' dan tekan 'KIRIM'",
-          "4. Masukkan jumlah Nominal yang harus dibayarkan, Kemudian klik 'KIRIM'",
-          "5. Konfirmasi transaksi dengan memasukkan password internet banking Anda dan klik 'Permintaan mToken' untuk mendapatkan mToken yang akan dikirim ke telepon Anda kemudian masukkan ke dalam kolom mToken dan klik 'KIRIM'"
+          "1. Masukkan kartu ATM dan PIN BCA anda",
+          "2. Pilih menu TRANSAKSI LAINNYA > TRANSFER > KE REKNING BCA VIRTUAL ACCOUNT",
+          "3. Masukkan '3901081324087598' sebagai rekening tujuan",
+          "4. Masukkan jumlah Nominal yang harus dibayarkan",
+          "5. Ikuti intruksi untuk menyelsaikan transaksi"
         ]
       },
       {
         "id": "acc-2",
-        "title": "Internet Banking BCA (Versi MOBILE)",
+        "title": "Klik BCA",
         "details": [
-          "1. Login ke ib.bri.co.id",
-          "2. Pilih Menu PEMBAYARAN > BRIVA",
-          "3. Pilih sumber pembayaran. Masukkan Nomer VIRTUAL AKUN yang telah disalin ke 'KODE BAYAR' dan tekan 'KIRIM'",
-          "4. Masukkan jumlah Nominal yang harus dibayarkan, Kemudian klik 'KIRIM'",
-          "5. Konfirmasi transaksi dengan memasukkan password internet banking Anda dan klik 'Permintaan mToken' untuk mendapatkan mToken yang akan dikirim ke telepon Anda kemudian masukkan ke dalam kolom mToken dan klik 'KIRIM'"
+          "1. Masuk ke website KLIK BCA",
+          "2. Pilih menu TRANSFER DANA > TRANSFER KE BCA VIRTUAL ACCOUNT",
+          "3. Masukkan '3901081324087598' sebagai rekening tujuan",
+          "4. Masukkan jumlah Nominal yang harus dibayarkan",
+          "5. Ikuti intruksi untuk menyelsaikan transaksi"
         ]
       },
       {
         "id": "acc-3",
         "title": "BCA MOBILE",
         "details": [
-          "1. Login ke ib.bri.co.id",
-          "2. Pilih Menu PEMBAYARAN > BRIVA",
-          "3. Pilih sumber pembayaran. Masukkan Nomer VIRTUAL AKUN yang telah disalin ke 'KODE BAYAR' dan tekan 'KIRIM'",
-          "4. Masukkan jumlah Nominal yang harus dibayarkan, Kemudian klik 'KIRIM'",
-          "5. Konfirmasi transaksi dengan memasukkan password internet banking Anda dan klik 'Permintaan mToken' untuk mendapatkan mToken yang akan dikirim ke telepon Anda kemudian masukkan ke dalam kolom mToken dan klik 'KIRIM'"
-        ]
-      },
-      {
-        "id": "acc-4",
-        "title": "ATM BCA",
-        "details": [
-          "1. Login ke ib.bri.co.id",
-          "2. Pilih Menu PEMBAYARAN > BRIVA",
-          "3. Pilih sumber pembayaran. Masukkan Nomer VIRTUAL AKUN yang telah disalin ke 'KODE BAYAR' dan tekan 'KIRIM'",
-          "4. Masukkan jumlah Nominal yang harus dibayarkan, Kemudian klik 'KIRIM'",
-          "5. Konfirmasi transaksi dengan memasukkan password internet banking Anda dan klik 'Permintaan mToken' untuk mendapatkan mToken yang akan dikirim ke telepon Anda kemudian masukkan ke dalam kolom mToken dan klik 'KIRIM'"
+          "1. Masuk ke aplikasi mobile m-BCA",
+          "2. Pilih menu M-TRANSFER > BCA VIRTUAL ACCOUNT",
+          "3. Masukkan '3901081324087598' sebagai rekening tujuan",
+          "4. Masukkan jumlah Nominal yang harus dibayarkan",
+          "5. Masukkan PIN m-BCA anda",
+          "6. Ikuti intruksi untuk menyelsaikan transaksi"
         ]
       }
     ]
