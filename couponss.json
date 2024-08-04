@@ -1,32 +1,20 @@
 [
   {
     "id": 1,
-    "name": "Promo Beli 1 Dapat 2",
+    "name": "Bonus Rp 10.000 Akun Baru",
     "callToAction": "Ambil",
     "backgroundColor": "https://raw.githubusercontent.com/farisa-trijaya/asset-assessment/main/widget-bg-1.png"
   },
   {
     "id": 2,
-    "name": "Promo Diskon Harga 25%",
+    "name": "Bonus Rp 50.000 Dengan Nominal Transaksi Rp 250.000",
     "callToAction": "Ambil",
     "backgroundColor": "https://raw.githubusercontent.com/farisa-trijaya/asset-assessment/main/widget-bg-2.png"
   },
   {
     "id": 3,
-    "name": "Promo Diskon Ongkir 50%",
+    "name": "Bonus Rp 100.000 3 Pembelian Pertama Akun Baru",
     "callToAction": "Ambil",
     "backgroundColor": "https://raw.githubusercontent.com/farisa-trijaya/asset-assessment/main/widget-bg-3.png"
-  },
-  {
-    "id": 4,
-    "name": "Promo Akun Baru Gratis Ongkir",
-    "callToAction": "Ambil",
-    "backgroundColor": "https://raw.githubusercontent.com/farisa-trijaya/asset-assessment/main/widget-bg-4.png"
-  },
-  {
-    "id": 5,
-    "name": "Promo Diskon 50%",
-    "callToAction": "Ambil",
-    "backgroundColor": "https://raw.githubusercontent.com/farisa-trijaya/asset-assessment/main/widget-bg-5.png"
   }
 ]
