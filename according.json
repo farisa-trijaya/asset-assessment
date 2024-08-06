@@ -90,5 +90,169 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "bni",
+    "content": [
+      {
+        "id": "acc-1",
+        "title": "BNI Internet Banking",
+        "details": [
+          "1. Login ke ibank.bni.co.id",
+          "2. Pilih menu TRANSAKSI LAINNYA > VIRTUAL AKUN > BILLING",
+          "3. Masukkan '8810081324087598', pilih rekening sumber anda, kemudian klik 'LANJUT'",
+          "4. Masukkan jumlah Nominal yang harus dibayarkan",
+          "5. Dihalaman konfirmasi, masukkan token autentikasi untuk menyelsaikan transaksi anda"
+        ]
+      },
+      {
+        "id": "acc-2",
+        "title": "BNI Mobile Banking",
+        "details": [
+          "1. Login ke aplikasi BNI MOBILE BANKING",
+          "2. Pilih menu TRANSFER > VIRTUAL ACCOUNT BILLING",
+          "3. Pilih tab 'Input Baru', kemudian masukkan '8810081324087598' sebagai rekening tujuan",
+          "4. Masukkan jumlah Nominal yang harus dibayarkan",
+          "5. Konfirmasi transaksi anda dengan memasukkan password mobile banking anda"
+        ]
+      },
+      {
+        "id": "acc-3",
+        "title": "ATM BNI",
+        "details": [
+          "1. Masukkan kartu, pilih bahasa, kemudian masukkan PIN anda",
+          "2. Pilih menu MENU LAINNYA > TRANSFER > DARI REKENING TABUNGAN > VIRTUAL ACCOUNT BILLING",
+          "3. Masukkan '8810081324087598' sebagai rekening tujuan",
+          "4. Masukkan jumlah Nominal yang harus dibayarkan",
+          "6. Konfirmasi transaksi anda"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mandiri",
+    "content": [
+      {
+        "id": "acc-1",
+        "title": "Livin' by Mandiri (Versi Mobile)",
+        "details": [
+          "1. Login ke aplikasi Livin' by Mandiri",
+          "2. Pilih menu PEMABAYARAN > BUAT PEMBAYARAN BARU > MULTIPAYMENT",
+          "3. Pilih rekening sumber anda pada 'Rekening Sumber', Kemudian pilih 'DANATOPUP' sebagai 'Penyedia Jasa', masukkan '89508081324087598' ke dalam kolom 'No VA' dan tekan 'TAMBAH SEBAGAI NOMER BARU' dan tekan 'LANJUT",
+          "4. Masukkan jumlah Nominal yang harus dibayarkan",
+          "5. Konfirmasi transaksi dengan memasukkan PIN Livin' by Mandiri anda"
+        ]
+      },
+      {
+        "id": "acc-2",
+        "title": "Livin' by Mandiri (Versi Website)",
+        "details": [
+          "1. Login ke ibankmandiri.co.id/retail3/",
+          "2. Pilih menu PEMABAYARAN > MULTIPAYMENT",
+          "3. Pilih rekening sumber anda pada 'Rekening Sumber', Kemudian pilih 'DANATOPUP' sebagai 'Penyedia Jasa', masukkan '89508081324087598' ke dalam kolom 'No VA' dan tekan 'LANJUT",
+          "4. Masukkan jumlah Nominal yang harus dibayarkan",
+          "5. Konfirmasi transaksi melalui Livin' by Mandiri Versi Mobile anda",
+          "6. Login ke aplikasi Livin' by Mandiri",
+          "7. Pilih menu Transaksi Tertunda",
+          "8. Konfirmasi transaksi dengan klik 'SETUJU' dan masukkan PIN Livin' by Mandiri anda"
+        ]
+      },
+      {
+        "id": "acc-3",
+        "title": "ATM Mandiri",
+        "details": [
+          "1. Masukkan kartu, pilih bahasa, kemudian masukkan PIN anda",
+          "2. Pilih menu BAYAR/BELI > MULTIPAYMENT",
+          "3. Masukkan '89508' sebagai Kode Biller, dan ikiuti dengan '89508081324087598' ke dalam kolom 'No VA'",
+          "4. Masukkan jumlah Nominal yang harus dibayarkan",
+          "6. Konfirmasi transaksi anda"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "cimbniaga",
+    "content": [
+      {
+        "id": "acc-1",
+        "title": "CIMB Clicks",
+        "details": [
+          "1. Login ke aplikasi CIMB Clicks",
+          "2. Pilih menu TRANSFER dan pilih rekening sumber pembayaran di bagian 'Transfer Dari'. Jangan pilih 'Rekening Ponsel' sebagai seumber pembayaran",
+          "3. Masukkan jumlah Nominal yang harus dibayarkan",
+          "4. Dibagian 'Transfer Ke', pilih Akun Lainnya (CIMB Niaga/Rekening Ponsel), Lalu tekan 'LANJUT'",
+          "5. Dibagian pilihan 'Transfer Ke', pilih Bank CIMB Niaga, Jangan pilih 'Rekening Ponsel'",
+          "6. Masukkan '8059081324087598' sebagai rekening tujuan dan klik 'LANJUT'",
+          "5. Masukkan 6 digit mPin anda dan klik 'SUBMIT'"
+        ]
+      },
+      {
+        "id": "acc-2",
+        "title": "Go Mobile",
+        "details": [
+          "1. Login ke Go Mobile",
+          "2. Pilih menu TRANSFER dan pilih Transfer ke Rekening CIMB Niaga Lainnya",
+          "3. Pilih rekening sumber pembayaran",
+          "4. Masukkan '8059081324087598' sebagai rekening tujuan",
+          "5. Masukkan jumlah Nominal yang harus dibayarkan lalu tekan 'LANJUT'",
+          "6. Konfirmasi pembayaran anda dan masukkan PIN Mobile Banking anda"
+        ]
+      },
+      {
+        "id": "acc-3",
+        "title": "ATM CIMB Niaga",
+        "details": [
+          "1. Masukkan kartu ATM dan PIN Anda",
+          "2. Pilih menu TRANSFER > REKENING CIMB Niaga/Rekening Ponsel Lain > Rekening CIMB Niaga Lain",
+          "3. Masukkan jumlah Nominal yang harus dibayarkan",
+          "4. Masukkan '8059081324087598' sebagai nomer rekening tujuan",
+          "5. Pilih rekening sumber pembayaran",
+          "6. Konfirmasi transaksi anda"
+        ]
+      },
+      {
+        "id": "acc-4",
+        "title": "Internet Transfer/ATM Bersama",
+        "details": [
+          "1. Masukkan kartu ATM dan PIN Anda",
+          "2. Pilih menu TRANSAKSI LAINNYA > TRANSFER > KE BANK LAIN",
+          "3. Masukkan 022 (kode bank CImb Niaga) sebagai kode bank",
+          "4. Masukkan '8059081324087598' sebagai nomer rekening tujuan",
+          "5. Masukkan jumlah Nominal yang harus dibayarkan",
+          "6. Pilih sumber pembayaran",
+          "7. Konfirmasi transaksi anda"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "permata",
+    "content": [
+      {
+        "id": "acc-1",
+        "title": "Permata Internet Baning",
+        "details": [
+          "1. mMasuk ke new.permatanet.com",
+          "2. Pilih menu TRANSFER > KE BANK LAIN > ONLINE",
+          "3. Pilih sumber dana",
+          "4. Centang kotak 'Masukkan Rekening Baru'. Lalu pilih Permata sebagai bank destinasi dan masukkan '8528081324087598' sebagai akun destinasi",
+          "5. Masukkan jumlah Nominal yang harus dibayarkan'",
+          "6. Konfirmasi Transaksi Anda dengan memasukkan SMS token melalui telepon genngam anda"
+        ]
+      },
+      {
+        "id": "acc-2",
+        "title": "ATM Permata",
+        "details": [
+          "1. Masukkan kartu ATM, Pilih bahasa Lalu masukkan PIN anda",
+          "2. Pilih menu TRANSFER LAINNYA > TRANSFER > KE BANK LAIN",
+          "3. Masukkan (Kode Bank Permata) sebagai kode bank",
+          "4. Masukkan '8528081324087598' sebagai nomer akun destinasi",
+          "5. Masukkan jumlah Nominal yang harus dibayarkan",
+          "6. Pilih rekening sumber pembayaran",
+          "6. Konfirmasi transaksi anda"
+        ]
+      }
+    ]
   }
 ]
