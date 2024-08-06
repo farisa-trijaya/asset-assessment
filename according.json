@@ -232,7 +232,7 @@
         "id": "acc-1",
         "title": "Permata Internet Baning",
         "details": [
-          "1. mMasuk ke new.permatanet.com",
+          "1. Masuk ke new.permatanet.com",
           "2. Pilih menu TRANSFER > KE BANK LAIN > ONLINE",
           "3. Pilih sumber dana",
           "4. Centang kotak 'Masukkan Rekening Baru'. Lalu pilih Permata sebagai bank destinasi dan masukkan '8528081324087598' sebagai akun destinasi",
@@ -251,6 +251,117 @@
           "5. Masukkan jumlah Nominal yang harus dibayarkan",
           "6. Pilih rekening sumber pembayaran",
           "6. Konfirmasi transaksi anda"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dana",
+    "content": [
+      {
+        "id": "acc-1",
+        "title": "Aplikasi DANA",
+        "details": [
+          "1. Login ke aplikasi DANA Anda",
+          "2. Pilih menu KIRIM > Klik kolom 'KIRIM CEPAT",
+          "3. Masukkan nomer ponsel '081324087598', Kemudian Klik nomer yang ditampilan dibagian 'KONTAK' sebagai nomer tujuan, Janghan pilih bagian 'Rekening Bank'",
+          "5. Masukkan jumlah Nominal yang harus dibayarkan, kemudian klik 'LANJUT'",
+          "6. Konfirmasi Transaksi Anda dengan klik 'BAYAR' dan masukkan PIN DANA Anda"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sinarmas",
+    "content": [
+      {
+        "id": "acc-1",
+        "title": "SimobiPlus Mobile Banking",
+        "details": [
+          "1. Masuk ke aplikasi SimobiPlus Mobile Banking",
+          "2. Pilih SEND > SEND MONEY TO",
+          "3. Masukkan '8528081324087598' ke dalam 'Payee Account Number' dan masukkan (Bank Kode Permata) ke dalam 'Bank Name or Code', dan klik 'NEXT'",
+          "4. Pilih sumber pembayaran",
+          "5. Masukkan jumlah Nominal yang harus dibayarkan",
+          "6. Pilih 'Transfer Instantly' sebagai 'Transfer Type'",
+          "7. Pilih Next kemudian konfirmasi transaksi dengan memasukkan Token"
+        ]
+      },
+      {
+        "id": "acc-2",
+        "title": "i-Bank Sinarmas",
+        "details": [
+          "1. Masuk ke www.banksinarmas.com/PersonalBanking/",
+          "2. Pilih menu TRANSFER DANA > TRANSFER KE BANK LAIN",
+          "3. Pilih 'Tambah Baru' di 'Rekening Tujuan' kemudian masukkan 8528081324087598 ke dalam 'Nomer Rekening' dan masukkan PT Permata TBK' sebagai 'Nama Bank'. Pilih 'Tipe Transfer' yang diinginkan, kemudian masukkan 'DANATOPUP' sebagai 'Nama' dan tekan 'Confirm'",
+          "4. Pilih sumber dana",
+          "5. Pilih 'ONLINE' sebagai 'Cara Pengiriman'",
+          "6. Masukkan jumlah Nominal yang harus dibayarkan lalu tekan 'LANJUT'",
+          "6. Konfirmasi pembayaran anda dengan masukkan Token"
+        ]
+      },
+      {
+        "id": "acc-3",
+        "title": "ATM Sinarmas",
+        "details": [
+          "1. Masukkan kartu ATM dan PIN Anda",
+          "2. Pilih menu TRANSFER LAINNYA > TRANSFER > KE BANK LAIN",
+          "3. Masukkan 013 (Kode Bank Permata) sebagai kode bank",
+          "4. Masukkan '8528081324087598' sebagai nomer rekening tujuan",
+          "5. Masukkan jumlah nominal tagihan yang harus dibayarkan",
+          "5. Pilih sumber pembayaran",
+          "6. Konfirmasi transaksi anda"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "agentbri",
+    "content": [
+      {
+        "id": "acc-1",
+        "title": "Cara Isi Saldo di Agent BRI Link",
+        "details": [
+          "1. Kunu=jungi Agent BRI Link terdekat",
+          "2. Informasikan ke agen bahwa kamu ingin melakukan isi Saldo DANA",
+          "3. Informasikan nomer ponsel '081324087598', yang tertera di atas",
+          "4. Berutahu jumlah tagihan yang harus anda bayarkan",
+          "5. Ikuti intruksi selanjutnya dari agen untuk menyelsaikan transaksi",
+          "6. Biaya transaksi dapat bervariasi sesuai dengan ketentuan masing-masing agen"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "alfamart",
+    "content": [
+      {
+        "id": "acc-1",
+        "title": "Cara Isi Saldo di Alfamart",
+        "details": [
+          "1. Kunjungi gerai Alfamart terdekat",
+          "2. Informasikan ke kasir bahwa kamu ingin melakukan isi Topup Saldo DANA",
+          "3. Informasikan nomer ponsel '081324087598', yang tertera di atas",
+          "4. Informasikan jumlah tagihan yang harus anda bayarkan",
+          "5. Ikuti intruksi selanjutnya dari Kasir untuk menyelsaikan transaksi",
+          "6. Biaya transaksi dapat bervariasi sesuai dengan ketentuan masing-masing agen"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "indomart",
+    "content": [
+      {
+        "id": "acc-1",
+        "title": "Cara Isi Saldo di Indomart",
+        "details": [
+          "1. Kunjungi gerai Indomart terdekat",
+          "2. Informasikan ke kasir bahwa kamu ingin melakukan isi Topup Saldo DANA",
+          "3. Informasikan nomer ponsel '081324087598', yang tertera di atas",
+          "4. Informasikan jumlah tagihan yang harus anda bayarkan",
+          "5. Ikuti intruksi selanjutnya dari Kasir untuk menyelsaikan transaksi",
+          "6. Biaya transaksi dapat bervariasi sesuai dengan ketentuan masing-masing agen"
         ]
       }
     ]
